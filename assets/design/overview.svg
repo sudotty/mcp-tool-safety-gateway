@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f7f8fa"/>
+  <rect x="60" y="60" width="1080" height="600" rx="24" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="96" y="120" font-family="Arial" font-size="34" font-weight="700" fill="#24292f">MCP Tool Safety Gateway</text>
+  <text x="96" y="160" font-family="Arial" font-size="18" fill="#57606a">Tool List → Request Preview → Input Check → Access Result → Review Step → Record View</text>
+  <g font-family="Arial" font-size="18" fill="#24292f">
+    <rect x="96" y="220" width="150" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="130" y="272">Tools</text>
+    <rect x="286" y="220" width="170" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="325" y="272">Preview</text>
+    <rect x="496" y="220" width="160" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="540" y="272">Check</text>
+    <rect x="696" y="220" width="160" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="732" y="272">Access</text>
+    <rect x="896" y="220" width="160" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="930" y="272">Record</text>
+  </g>
+  <text x="96" y="410" font-family="Arial" font-size="22" font-weight="700" fill="#24292f">Showcase value</text>
+  <text x="96" y="450" font-family="Arial" font-size="18" fill="#57606a">Make external actions visible, typed, checked, and recorded.</text>
+  <text x="96" y="500" font-family="Arial" font-size="18" fill="#57606a">Strong demo point: a clear control layer before real systems are touched.</text>
+</svg>
